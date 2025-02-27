@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <h1 align="center">¡Hola! 👋, Soy Miguel</h1>
+-->
 
 ## 🚀 Sobre mí  
 💻Ingeniero Informático graduado en la Universidad de Holguín, con sólida experiencia en sistemas informáticos y desarrollo de software. Me especializo en diseñar y optimizar soluciones tecnológicas que simplifican procesos complejos y aportan valor a las organizaciones. A lo largo de mi carrera, he realizado diversos proyectos, integrando tecnologías como TypeScript, JavaScript, React, TypeORM y Java, con un enfoque en usabilidad y mantenimiento eficiente.
