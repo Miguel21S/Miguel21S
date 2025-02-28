@@ -31,8 +31,6 @@ Recientemente, he fortalecido mis habilidades técnicas a través de un bootcamp
 <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/NodeJs-339933?style=for-the-badge&logo=Node.js&logoColor=white"
 alt="Nodejs" />
 </a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-335933?style=for-the-badge&logo=express&logoColor=white"
-alt="Express" />
 <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </a>
