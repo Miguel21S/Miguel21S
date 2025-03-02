@@ -64,6 +64,9 @@ alt="MySqls"/>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="MySqls"/>
 </a>
+<a href="https://typeorm.io/">
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
+</a>
 
 ## ⚙️ Herramientas
 <a href="https://code.visualstudio.com/">
