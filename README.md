@@ -50,6 +50,9 @@ alt="TypeScript" />
 <a href="https://redux.js.org/">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </a>
+<a href="https://laravel.com/">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</a>
   
 ## 📦 Librerías
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-335933?style=for-the-badge&logo=express&logoColor=white"
