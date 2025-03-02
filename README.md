@@ -50,6 +50,9 @@ alt="TypeScript" />
 <a href="https://redux.js.org/">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 </a>
+<a href="https://typeorm.io/">
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
+</a>
 <a href="https://laravel.com/">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 </a>
@@ -59,6 +62,9 @@ alt="TypeScript" />
 alt="Express" />
   <a href="https://jwt.io/"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </a>
+<a href="https://mongoosejs.com/">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+</a>
 
 ## Bases de dato
 <a href="https://www.mongodb.com/es"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -66,9 +72,6 @@ alt="MySqls"/>
 </a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"
 alt="MySqls"/>
-</a>
-<a href="https://typeorm.io/">
-  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM"/>
 </a>
 
 ## ⚙️ Herramientas
