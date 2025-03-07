@@ -106,5 +106,10 @@ alt="MySqls"/>
 ![GitHub Streak](https://streak-stats.demolab.com?user=Miguel21S&theme=dark&background=000&border=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=30A3DC)
 
 ## 📫 Contacto  
-✉️ [Email](mailto:leaismiguelss@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/miguel-b-sim%C3%A3o)  
+<a href="mailto:leaismiguelss@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/miguel-b-sim%C3%A3o" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
